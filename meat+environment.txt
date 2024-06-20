@@ -1,0 +1,125 @@
+{
+  "totalArticles": 79,
+  "articles": [
+    {
+      "title": "Move over filet mignon, meet the man who wants to make ostrich meat a staple",
+      "description": "A self-described “city boy” created an ostrich farm in rural N.H. He believes it will be a winning business that can help the environment and people’s health.",
+      "content": "That’s the pitch Monte Cossette, 53, makes tirelessly to potential customers at farmers markets around the state, where he’s peddling cuts of the exotic flightless bird.\nWEBSTER, N.H. — Do you love red meat but want a healthier and more sustainable a... [8636 chars]",
+      "url": "https://www.bostonglobe.com/2024/05/15/metro/new-hampshire-ostrich-farm-meat-environment-health/",
+      "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/MoDXo9537s2DnNMWGv4Y_D37CPY=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/NR4D2GUQX22UJD5NV7WNZHDMQU.JPG",
+      "publishedAt": "2024-05-15T04:00:00Z",
+      "source": {
+        "name": "The Boston Globe",
+        "url": "https://www.bostonglobe.com"
+      }
+    },
+    {
+      "title": "Hot chips best worldwide meal for protecting biodiversity, study finds",
+      "description": "New study of global website recipes suggest eating less meat and choosing plant-based meals help protect the world's environment",
+      "content": "In short: A study has reviewed how the world's favourite meals impact on biodiversity.\nA study has reviewed how the world's favourite meals impact on biodiversity. The meal with the highest impact on biodiversity was Lechazo (roast lamb) from Spain.\n... [4120 chars]",
+      "url": "https://www.abc.net.au/news/2024-02-28/hot-chips-best-food-world-biodiversity-study-food/103498364",
+      "image": "https://live-production.wcms.abc-cdn.net.au/988aae328df4e3c3f813d45528d114cc?impolicy=wcms_crop_resize&cropH=2268&cropW=4032&xPos=0&yPos=361&width=862&height=485&imformat=generic",
+      "publishedAt": "2024-02-28T02:32:55Z",
+      "source": {
+        "name": "ABC News",
+        "url": "https://www.abc.net.au"
+      }
+    },
+    {
+      "title": "Eating to save nature? Embrace potatoes, ditch meat and track your beans",
+      "description": "The impact of meat on the environment is well known, but what about staples such as rice and legumes?",
+      "content": "Biodiversity-conscious eaters could consider substituting potatoes for rice, cutting down on beef and lamb and asking where their beans, lentils and chickpeas are grown to reduce their impact on nature, a new study has found.\nScientists analysed 151 ... [5126 chars]",
+      "url": "https://www.theguardian.com/environment/2024/feb/21/eating-to-save-nature-embrace-potatoes-ditch-rice-track-your-beans-aoe",
+      "image": "https://i.guim.co.uk/img/media/1c5147613cc46a0f875d2c344ccfd1f638ed5f99/0_0_6720_4032/master/6720.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a38f570581e8ec712572525077b7e00a",
+      "publishedAt": "2024-02-21T19:00:31Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com"
+      }
+    },
+    {
+      "title": "The popping of the cheap-money bubble took plant-based meat with it: 'Worse-tasting products that aren't healthier than the real thing'",
+      "description": "“In an inflationary environment,” says Pitchbook analyst Alex Frederick, “it's challenging to get consumers to try new or more premium products.”",
+      "content": "The 2020s have been a real one so far. The interest rate shock that followed the highest inflation since the 1980s have created a world where money is just more expensive and it’s disrupting business models from dating apps to streaming services to c... [7325 chars]",
+      "url": "https://fortune.com/2024/02/17/why-plant-based-meat-decline-peak-everything-bubble/",
+      "image": "https://content.fortune.com/wp-content/uploads/2024/02/GettyImages-1335814888-e1708119878798.jpg?resize=1200,600",
+      "publishedAt": "2024-02-17T05:00:00Z",
+      "source": {
+        "name": "Fortune",
+        "url": "https://fortune.com"
+      }
+    },
+    {
+      "title": "Plans to present meat as ‘sustainable nutrition’ at Cop28 revealed",
+      "description": "Documents show industry intends to go ‘full force’ in arguing meat is beneficial to the environment at climate summit",
+      "content": "Big meat companies and lobby groups are planning a large presence at the Cop28 climate conference, equipped with a communications plan to get a pro-meat message heard by policymakers throughout the summit.\nDocuments seen by the Guardian and DeSmog sh... [9235 chars]",
+      "url": "https://www.theguardian.com/environment/2023/nov/29/plans-to-present-meat-as-sustainable-nutrition-at-cop28-revealed",
+      "image": "https://i.guim.co.uk/img/media/0863aabcb653814d53e57bec7e03b6a33c080691/0_379_8102_4864/master/8102.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2cc7ff2e79bc31dc3cd26978dc47f35d",
+      "publishedAt": "2023-11-29T11:00:39Z",
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com"
+      }
+    },
+    {
+      "title": "Plant-based meat offers simple solution to climate woes",
+      "description": "Climate scientists have long said that eating more plants and fewer animals is among the simplest, cheapest and most readily available ways for people to reduce their impact on the environment.",
+      "content": "A vegan curry wurst is eaten at a \"Best Worscht in Town\" sausage franchise in Frankfurt, Germany, Wednesday, Sept. 13, 2023. Eating more plants and fewer animals is among the simplest, cheapest and most readily available ways for people to reduce the... [11290 chars]",
+      "url": "https://www.chicagotribune.com/news/environment/ct-aud-nw-plant-based-meat-climate-change-20231117-q3allz35jvcsfiqwa36lvqtuaq-story.html",
+      "image": "https://www.chicagotribune.com/resizer/3ywqW476IpzSwepLwfx_ltY9GJ4=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/LFW32M33N65WOXGSSOSZCFJS6E.jpg",
+      "publishedAt": "2023-11-16T23:10:00Z",
+      "source": {
+        "name": "Chicago Tribune",
+        "url": "https://www.chicagotribune.com"
+      }
+    },
+    {
+      "title": "Australians unlikely to give up meat, become vegetarian to help environment, study shows",
+      "description": "La Trobe University research shows Australians would prefer to embrace many other green options to help the environment before giving up meat and becoming vegetarians.",
+      "content": "Australians love eating meat and say limited vegetarian options when dining out is a key barrier to changing their diet, despite more meat-free choices than ever, new research has found.\nKey points: A study shows Australians would rather take other a... [3884 chars]",
+      "url": "https://www.abc.net.au/news/2023-11-06/la-trobe-univerity-meat-consumption-study/103065134",
+      "image": "https://live-production.wcms.abc-cdn.net.au/66ba362d165aa6343d9d31930b10c366?impolicy=wcms_crop_resize&cropH=942&cropW=1675&xPos=245&yPos=7&width=862&height=485",
+      "publishedAt": "2023-11-05T18:58:53Z",
+      "source": {
+        "name": "ABC News",
+        "url": "https://www.abc.net.au"
+      }
+    },
+    {
+      "title": "Meet the man fighting city hall to rename natural gas",
+      "description": "In this week's issue of our environment newsletter, we meet a B.C. man who is trying to convince municipalities to do away with the term natural gas, and explore the idea of a meat tax.",
+      "content": "Our planet is changing. So is our journalism. This weekly newsletter is part of a CBC News initiative entitled \"Our Changing Planet\" to show and explain the effects of climate change. Keep up with the latest news on our Climate and Environment page.\n... [13225 chars]",
+      "url": "https://www.cbc.ca/news/science/what-on-earth-natural-gas-fossil-1.7001520",
+      "image": "https://i.cbc.ca/1.7001529.1697733026!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/eddie-dearden.jpg",
+      "publishedAt": "2023-10-19T20:09:53Z",
+      "source": {
+        "name": "CBC.ca",
+        "url": "https://www.cbc.ca"
+      }
+    },
+    {
+      "title": "EU ‘bendy bananas’ regulation will be dropped, says Environment Secretary",
+      "description": "In her speech at the Tory party conference, the Environment Secretary also called out the ‘green zealots’ who want to make people eat ‘fake meat’.",
+      "content": "A European Union regulation on bendy bananas will be dropped, the Environment Secretary has announced.\nIn her keynote speech at the Conservative Party conference, Therese Coffey said “bent or straight”, it is not for the Government to decide “the sha... [2690 chars]",
+      "url": "https://www.standard.co.uk/business/business-news/eu-bendy-bananas-regulation-will-be-dropped-says-environment-secretary-b1110850.html",
+      "image": "https://static.standard.co.uk/2023/10/02/16/88a441417b4809cd92f5136e99d78d86Y29udGVudHNlYXJjaGFwaSwxNjk2MzQ2MjI4-2.73991450.jpg?width=1200&width=1200&auto=webp&quality=75",
+      "publishedAt": "2023-10-02T15:24:06Z",
+      "source": {
+        "name": "Evening Standard",
+        "url": "https://www.standard.co.uk"
+      }
+    },
+    {
+      "title": "‘Resign and apologise’: CPI (M) to IIT-Mandi director for linking meat-eating and landslides",
+      "description": "\"Himachal Pradesh will have a significant downfall...if we do not stop butchering animals. You are butchering animals there... innocent animals. It has a symbiotic relationship with the degradation of the environment as well... which you cannot see right now but is there...",
+      "content": "In a letter to the IIT Mandi director, CPI (M) state secretary Onkar Shad said that his views on meat-eating have proved “beyond doubt that there is no guarantee that one being in an elite technology institute has scientific vision.” (File)\nThe Himac... [811 chars]",
+      "url": "https://indianexpress.com/article/india/apologise-cpi-m-iit-mandi-director-linking-meat-eating-landslides-8933584/",
+      "image": "https://images.indianexpress.com/2023/09/shimla-landslide.jpg",
+      "publishedAt": "2023-09-10T13:26:55Z",
+      "source": {
+        "name": "The Indian Express",
+        "url": "https://indianexpress.com"
+      }
+    }
+  ]
+}
